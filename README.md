@@ -1,2 +1,2 @@
 # fixes
-a collection of fixes 
+discord fixes
