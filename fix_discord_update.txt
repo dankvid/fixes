@@ -1,0 +1,5 @@
+file $(which discord)
+and cd to where the symbolic link points. In this directory (probably /opt/discord/) edit the file resources/build_info.json that should look like:
+
+{ "releaseChannel": "stable", "version": "0.0.13" }
+You can “upgrade” the version, in this case with "0.0.14", and trick the launcher. All is reset in a future update.
